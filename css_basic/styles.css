@@ -1,9 +1,37 @@
-/* Add your non-positioning-related CSS rules here */
-
-/* Add a logo to the top-left of the page */
-.logo {
-    font-size: 24px;
+header{
+    border: 1px solid black;
+}
+main{
+    display: flex;
+    border: 1px solid black;
+    flex-direction: row;
+    flex: auto;
+}
+footer{
+    border: 1px solid black;
 }
 
-/* Customize other styles as needed */
+article {
+    flex: 2;
+    overflow-y: auto; 
+    padding: 10px; 
+    background-color: #FFFFFF; 
+    border: 1px solid #DDD; 
+}
+
+aside {
+    flex: 1;
+    overflow-y: auto; 
+    padding: 10px; 
+}
+
+.logo {
+    font-size: 36px; 
+    color: #FF5733; 
+    margin-right: 10px; 
+}
+
+body {
+    background-color: #F2F2F2; 
+}
 
