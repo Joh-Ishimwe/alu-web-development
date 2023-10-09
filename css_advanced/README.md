@@ -1,4 +1,4 @@
-## GET SCHOOL WEBPAGE
+## GET SCHOOLED WEBPAGE
 Welcome to Smile School, the perfect place to master the art of smiling. Our website offers a delightful learning experience with a beautifully designed interface.
 
 ![Smile School Logo](./img/firstpg.png)
